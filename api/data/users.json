@@ -17,5 +17,15 @@
     "id": "1760943658649",
     "email": "testuser@example.com",
     "password": "$2b$10$WXp82G9G3Q826XtJJ/HMP.kLn6yiTTIi1AAJWpEYRO/bBxyuK9hAO"
+  },
+  {
+    "id": "1760966501031",
+    "email": "alexbozzi95@gmail.com",
+    "password": "$2b$10$SS5TTZ08fMtHbeyR.TK1zufE/Oudd4iM00YR5yWMBrBzvKdIJjAWS"
+  },
+  {
+    "id": "1760966570068",
+    "email": "lili@gmail.com",
+    "password": "$2b$10$1hlAnzlPQPWS6jyFY/xT8ujCkTp04TQRHVFoI5ZnxdleemT.BS9sO"
   }
 ]
